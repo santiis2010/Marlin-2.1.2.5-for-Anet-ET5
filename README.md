@@ -1,4 +1,4 @@
-# 🧠 Marlin 2.1.2.5 para Anet ET5 Pro
+# 🧠 Marlin 2.1.2.5 para Anet ET5
 
 Firmware personalizado basado en **Marlin 2.1.2.5**, configurado y optimizado para la **Anet ET5** con placa original (STM32F407) y drivers **TMC2208 en modo Standalone**.
 
