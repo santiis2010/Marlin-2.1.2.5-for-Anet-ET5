@@ -7,7 +7,7 @@ Firmware personalizado basado en **Marlin 2.1.2.5**, configurado y optimizado pa
 ## ⚙️ Características principales
 
 - ✅ Basado en la versión oficial **Marlin 2.1.2.5 desde davidtgbe 2.1 bugfix**
-- 🖥️ Configurado para **Anet ET5 Pro (placa ET5 / ET5X V1.0)**
+- 🖥️ Configurado para **Anet ET5 (placa Anet_ET4_ V1.x)**
 - 🧩 Drivers **TMC2208_STANDALONE**
 - 🔧 **Babystepping** activado para ajustar la altura Z durante la impresión
 - 📏 Ajuste de **Z-Offset en tiempo real**
@@ -15,7 +15,7 @@ Firmware personalizado basado en **Marlin 2.1.2.5**, configurado y optimizado pa
 - ⚡ Compatible con **bootloader OpenBLT**
 - 📡 Conexión por **USB o SD**
 - 🌡️ Termistores configurados según stock de fábrica
-- 🧱 Límites de movimiento, pasos por mm y volumen de impresión ajustados a valores originales de la ET5 Pro
+- 🧱 Límites de movimiento, pasos por mm y volumen de impresión ajustados a valores originales de la ET5
 
 ---
 
@@ -71,7 +71,7 @@ Durante la impresión:
 ## 📦 Créditos
 
 - Firmware base: [Marlin Firmware](https://github.com/MarlinFirmware/Marlin)  
-- Adaptación y configuración: **Santiago Pescador (2025)**  
+- Adaptación y configuración: **Santiis2010 (2025)**  
 - Comunidad de usuarios Anet ET5 Pro 🔧  
 
 ---
