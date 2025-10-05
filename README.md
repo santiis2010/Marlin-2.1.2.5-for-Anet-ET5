@@ -27,7 +27,7 @@ Firmware personalizado basado en **Marlin 2.1.2.5**, configurado y optimizado pa
 
 ### 2. Clonar o descargar el repositorio
 ```bash
-git clone https://github.com/santiis2010/Marlin-ET5Pro.git
+git clone https://github.com/santiis2010/Marlin-2.1.2.5-for-Anet-ET5.git
 ```
 
 ### 3. Compilar
