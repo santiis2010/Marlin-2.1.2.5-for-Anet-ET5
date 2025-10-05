@@ -9,6 +9,7 @@ Firmware personalizado basado en **Marlin 2.1.2.5**, configurado y optimizado pa
 - ✅ Basado en la versión oficial **Marlin 2.1.2.5 desde davidtgbe 2.1 bugfix**
 - 🖥️ Configurado para **Anet ET5 (placa Anet_ET4_ V1.x)**
 - 🧩 Drivers **TMC2208_STANDALONE**
+- ⚙️ Configurado para **extrusor BMG Dual Drive** (pasos y dirección ajustados)
 - 🔧 **Babystepping** activado para ajustar la altura Z durante la impresión
 - 📏 Ajuste de **Z-Offset en tiempo real**
 - 🧮 **EEPROM habilitada** (guardado de configuraciones con `M500`)
